@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open an issue in yorvoid/yorvoid
+    url: https://github.com/yorvoid/yorvoid/issues/new/choose
+    about: This repository is a read-only copy; every YorvoID package is developed, and its issues tracked, in the monorepo.
+  - name: Report a security vulnerability
+    url: https://github.com/yorvoid/yorvoid/security/advisories/new
+    about: Report security issues privately, never in a public issue.
+  - name: Documentation
+    url: https://github.com/yorvoid/yorvoid/tree/main/docs
+    about: Concepts, guides and the guarantees YorvoID makes.
